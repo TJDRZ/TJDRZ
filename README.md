@@ -13,7 +13,7 @@ I'm currently working on utilizing the following Front-End/Full-Stack Developmen
 -ESLint  
 -Prettier  
 -Jest  
-and am hoping to continue to Back-end and databases using NodeJS/Express/MongoDB afterwards.
+and am hoping to continue to Back-End and databases using NodeJS/Express/MongoDB afterwards.
 
 
 
