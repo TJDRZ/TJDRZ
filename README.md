@@ -1,6 +1,6 @@
-### Hi there I'm TJDRZ 👋
+## Hi there I'm TJDRZ 👋
 
-## I'm a self-taught Web Developer and have an Associate's degree in Computer Networking Technology
+### I'm a self-taught Web Developer and have an Associate's degree in Computer Networking Technology
 
 (Lots of repos on my account are named via projects from The Odin Project. Others may be a mix of personal / collaborations / professional work.)
 
