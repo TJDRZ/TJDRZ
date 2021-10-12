@@ -11,8 +11,9 @@ I'm currently working on utilizing the following Front-End/Full-Stack Developmen
 -ReactJS  
 -Webpack  
 -ESLint  
--Prettier  
--Jest  
+-Prettier
+-Sass/SCSS
+-Jest
 and am hoping to continue to Back-End and databases using NodeJS/Express/MongoDB afterwards to complete the MERN stack.
 
 
