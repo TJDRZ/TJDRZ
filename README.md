@@ -2,6 +2,8 @@
 
 ### I'm a self-taught Web Developer and have an Associate's degree in Network Information Systems
 
+**View my personal portfolio [website](https://tjdrz.com)**
+
 (Lots of repos on my account are named via projects from The Odin Project. Others may be a mix of personal / collaborations / professional work.)
 
 I'm currently working on utilizing the following Front-End/Full-Stack Development languages/frameworks/tools:  
